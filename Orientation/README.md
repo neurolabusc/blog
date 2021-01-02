@@ -16,8 +16,5 @@ Raw MRI scans are always acquired as rectangular boxes, so they can encode nativ
 
  - [dcm2niix gantry tilt](https://github.com/rordenlab/dcm2niix/issues/253)
  - [DICOM CT scans](https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage#Computed_Tomography_.28CT.2C_CAT.29) exhibiting gantry tilt.
- 
- 
- [Home Page](../README.md)
 
 
